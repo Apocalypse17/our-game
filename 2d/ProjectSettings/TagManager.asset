@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - bullet
+  - chapter
+  - seed
+  - bush
+  - water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 910049187
+    locked: 0
+  - name: background 1
+    uniqueID: 2723672061
+    locked: 0
+  - name: background 2
+    uniqueID: 3014746099
+    locked: 0
+  - name: player
+    uniqueID: 3895957273
+    locked: 0
+  - name: foreground
+    uniqueID: 2829209221
+    locked: 0
